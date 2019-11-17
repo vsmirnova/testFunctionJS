@@ -1,0 +1,14 @@
+{
+  "name": "testFunctionJS",
+  "version": "1.0.0",
+  "description": "Тесты для функций JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "vsmirnova",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
